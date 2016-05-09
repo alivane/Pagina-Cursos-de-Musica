@@ -4,3 +4,28 @@ img{
 img.responsive-img, video.responsive-video {
 	height: 70px;
 }
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #fce4ec;
+  }
+
+ header nav{
+ 	background-color:#ec407a;
+ }
+ footer{
+ 	background-color:#ec407a;
+ 	color:white;
+ }
+ html{
+ 	font-family: GillSans, Calibri, Trebuchet, sans-serif;
+ }
+.card .card-image {
+	height: 300px;
+	background-color:  #fce4ec;
+}
+footer{
+	height: 70px;
+	padding-top:20px;
+}
