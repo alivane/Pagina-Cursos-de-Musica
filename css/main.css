@@ -1,1 +1,6 @@
-main.css
+img{
+	width: 100%;
+}
+img.responsive-img, video.responsive-video {
+	height: 70px;
+}
